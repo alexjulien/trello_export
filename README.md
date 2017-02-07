@@ -25,6 +25,6 @@ Nothing to configure, no argument validation; quick and dirty.
 
 Evernote, OneNote, Simplenote, and of course, Trello. And then some. My organization/note-taking/productivity system has been there, done that, tried those... My current endeavor involves Markdown because, well, it's cool and all the rage. Well, of course there's more to it, and I'm tempted to write some blog posts about it, or something. But right now, I just want to release this.
 
-Anyhow, I wanted to export all of my Trello boards into Markdown. This is the result of my efforts. It does the trick for my needs. Maybe you'll find it useful too. I'll be glad to receive comments, forks, bug reports, ideas and whatnot.
+Anyhow, I wanted to export all of my Trello boards into Markdown. This is the result of my efforts. It does the trick for my needs. Maybe you'll find it useful too. I'll be glad to receive comments, forks, bug reports, ideas and whatnot. Adapting it to export to something else (XML, HTML, etc) could be nice, for example, and not that hard.
 
 Welcome.
