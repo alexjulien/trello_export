@@ -1,7 +1,7 @@
 # trello_export
 Export Trello JSON files to Markdown
 
-This simple script onverts a Trello board JSON export to:
+This simple script converts a Trello board JSON export to:
 1. A folder for the board with
 2. A subfolder for each list with
 3. A subfolder per card with
